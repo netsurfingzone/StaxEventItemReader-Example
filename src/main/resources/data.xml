@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>John</name>
+        <rollNumber>0126CS090</rollNumber>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Arya</name>
+        <rollNumber>0126CS090</rollNumber>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Will</name>
+        <rollNumber>0126CS090</rollNumber>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Smith</name>
+        <rollNumber>0126CS090</rollNumber>
+    </student>
+    <student>
+        <id>5</id>
+        <name>Rock</name>
+        <rollNumber>0126CS090</rollNumber>
+    </student>
+</students>
